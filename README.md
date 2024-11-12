@@ -7,7 +7,7 @@
 
 <br>
 
-💼 Estagiário em uma empresa de tecnologia, buscando crescer e aprender em um ambiente dinâmico.
+💼 Estagiário em um setor de tecnologia, de uma empresa muito grande, buscando crescer e aprender em um ambiente dinâmico.
 
 👨🏻‍🎓 Cursando Ciência da Computação, focado em adquirir conhecimentos práticos e teóricos.
 
