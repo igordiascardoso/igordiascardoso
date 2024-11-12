@@ -47,9 +47,10 @@
 
 ## ✉ Onde me encontrar:
 
-[![Linkedin: Igor Dias](https://img.shields.io/badge/-IgorDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/igordiascardoso/](https://www.linkedin.com/in/igordiascardoso/)](https://www.linkedin.com/in/igordiascardoso/)](https://www.linkedin.com/in/igordiascardoso/))]([https://www.linkedin.com/in/igor-dias-cardoso-7425091aa/](https://www.linkedin.com/in/igordiascardoso/))
+[![Linkedin: Igor Dias](https://img.shields.io/badge/-IgorDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igordiascardoso/)](https://www.linkedin.com/in/igordiascardoso/)
 [![Gmail Badge](https://img.shields.io/badge/-MeuGmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igordiascardoso@gmail.com)](mailto:igordiascardoso@gmail.com)
-[![GitHub igordiascardoso]( https://img.shields.io/github/followers/igordiascardoso?label=follow&style=social)](https://github.com/igordiascardoso)
+[![GitHub igordiascardoso](https://img.shields.io/github/followers/igordiascardoso?label=follow&style=social)](https://github.com/igordiascardoso)
+
 
 
 <br>
